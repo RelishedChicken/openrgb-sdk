@@ -4,10 +4,11 @@ import { Socket } from "net";
 // @ts-expect-error
 import bufferpack from "bufferpack";
 import * as utils from "./utils.js";
-import type { ResolveObject } from "./ResolveObject.js";
-import type { Settings } from "./Settings.js";
-import type { ModeInput } from "./ModeInput.js";
-import { RGBColor, Mode } from "./device.js";
+import type { ResolveObject } from "./classes/ResolveObject.js";
+import type { Settings } from "./classes/Settings.js";
+import type { ModeInput } from "./classes/ModeInput.js";
+import type { Mode } from "./classes/Mode.js";
+import type { RGBColor } from "./classes/RGBColor.js";
 import Device from "./device.js";
 
 const HEADER_SIZE = 16;

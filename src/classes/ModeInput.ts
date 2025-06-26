@@ -1,4 +1,4 @@
-import type { RGBColor} from "./device";
+import type { RGBColor} from "./RGBColor.ts";
 
 export interface ModeInput {
     id?: number

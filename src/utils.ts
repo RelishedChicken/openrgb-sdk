@@ -1,4 +1,4 @@
-import type { RGBColor } from "./device"
+import type { RGBColor } from "./classes/RGBColor.js";
 
 /**
  * converts RGB values to an RGB-object

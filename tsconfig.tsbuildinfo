@@ -1,1 +1,1 @@
-{"root":["./src/modeinput.ts","./src/resolveobject.ts","./src/settings.ts","./src/client.ts","./src/device.ts","./src/index.ts","./src/utils.ts"],"version":"5.8.3"}
+{"root":["./src/client.ts","./src/device.ts","./src/index.ts","./src/utils.ts","./src/classes/matrix.ts","./src/classes/mode.ts","./src/classes/modeinput.ts","./src/classes/rgbcolor.ts","./src/classes/resolveobject.ts","./src/classes/segment.ts","./src/classes/settings.ts","./src/classes/zone.ts"],"version":"5.8.3"}
